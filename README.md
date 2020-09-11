@@ -1,2 +1,3 @@
-# Exercicio-da-Vania
+# Exercicio-da-Vânia
+  Exercicio feito no VisualG
  
